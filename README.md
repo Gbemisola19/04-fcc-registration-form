@@ -1,7 +1,7 @@
 # FCC REGISTRATION FORM
 This is a project that gives detail about some semantic HTML elements an
 
-![Registration form](image.png)
+![Registration form](app_screenshot.png)
 
 Additional description of the project and its features.
 
