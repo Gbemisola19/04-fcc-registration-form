@@ -1,4 +1,5 @@
 # FCC REGISTRATION FORM
+
 This is a project that gives detail about some semantic HTML elements an
 
 ![Registration form](app_screenshot.png)
@@ -82,7 +83,6 @@ yarn axe
 
 - Github: [Gbemisola19](https://github.com/Gbemisola19)
 - Twitter: [OladipoAzeezat](https://twitter.com/OladipoAzeezat)
-
 
 ## 🤝 Contributing
 
