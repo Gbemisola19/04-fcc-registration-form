@@ -1,8 +1,8 @@
 # FCC REGISTRATION FORM
 
 This is a project that gives detail about some semantic HTML elements an
-One paragraph statement about the project.
-![Registration form](image.png)
+
+![Registration form](app_screenshot.png)
 
 Additional description of the project and its features.
 
@@ -83,7 +83,6 @@ yarn axe
 
 - Github: [Gbemisola19](https://github.com/Gbemisola19)
 - Twitter: [OladipoAzeezat](https://twitter.com/OladipoAzeezat)
-
 
 ## 🤝 Contributing
 
